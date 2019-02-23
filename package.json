@@ -1,11 +1,19 @@
 {
-    "name": "hexo-photography-details",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Bobby Yang",
-    "license": "GPL-3.0"
-  }
+  "name": "hexo-photography-details",
+  "version": "0.0.1",
+  "description": "Hexo plugin for photos. Geared towards photographers who want to show case work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobby Yang",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-glyif:glyif/hexo-photography-details.git"
+  },
+  "keywords": [
+    "hexo",
+    "photography"
+  ]
+}
