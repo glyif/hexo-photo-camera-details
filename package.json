@@ -1,5 +1,5 @@
 {
-  "name": "hexo-photography-details",
+  "name": "hexo-photo-camera-details",
   "version": "0.0.1",
   "description": "Hexo plugin for photos. Geared towards photographers who want to show case work.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com-glyif:glyif/hexo-photography-details.git"
+    "url": "git@github.com-glyif:glyif/hexo-photo-camera-details.git"
   },
   "keywords": [
     "hexo",
